@@ -16,16 +16,16 @@
   - Sets the new remote
   - Verifies the new remote URL
   - Pushes the changes in your local repository up to the remote repository you specified as the origin
-    `
- - without ssh
-    ```sh
-    $ git remote add origin https://github.com/username/new_repo
-    $ git remote -v
-    $ git push -u origin master
-    ```
- - with ssh 
-    ```sh
-    $ git remote add origin git@github.com:username/
-    $ git remote -v
-    $ git push -u origin master
-    ```
+    
+       - without ssh
+          ```sh
+          $ git remote add origin https://github.com/username/new_repo
+          $ git remote -v
+          $ git push -u origin master
+          ```
+       - with ssh 
+          ```sh
+          $ git remote add origin git@github.com:username/
+          $ git remote -v
+          $ git push -u origin master
+         
