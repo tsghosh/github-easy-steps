@@ -1,0 +1,5 @@
+
+    git clone
+    git fetch
+    git merge
+    git pull
