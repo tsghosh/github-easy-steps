@@ -10,17 +10,17 @@
 1. Contribute to a single file or portion of a file.
      > There is no way to modify/change contents of file in open sourcerepository without creating a fork.
 
-    - Log in to your account.
-    - Search and select a open source repository file that you feel requires a change / modification.
-    - Click on the pencil symbol on right corner of the page.
-    - You will receive the following 
-        | You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
-        | --- |
-     If you go to your own repository listing, you can find a copy of project copied to your repository list,
-     - Add changes to the project file
-     - Add necessary comments, Click on Propose file change
-     - Click on Create a Pull request to submit your changes for review.
-     - Leave necessary comments for project maintainers
+  - Log in to your account.
+  - Search and select a open source repository file that you feel requires a change / modification.
+  - Click on the pencil symbol on right corner of the page.
+  - You will receive the following 
+      | You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
+      | --- |
+   If you go to your own repository listing, you can find a copy of project copied to your repository list,
+   - Add changes to the project file
+   - Add necessary comments, Click on Propose file change
+   - Click on Create a Pull request to submit your changes for review.
+   - Leave necessary comments for project maintainers
 
 
 
