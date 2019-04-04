@@ -7,9 +7,9 @@
 > <ins> Many open source projects on Github use pull requests to manage changes from contributors as they are useful in providing a way to notify project maintainers about changes one has made and in initiating code review and general discussion about a set of changes before being merged into the main branch.</ins>   
 
 ## Ways to create pull requests / contribute to a open source repository
-1. Contribute to a single file or portion of a file.
-     > There is no way to modify/change contents of file in open sourcerepository without creating a fork.
+> There is no way to modify/change contents of file in open sourcerepository without creating a fork.
 
+1. Contribute to a single file or portion of a file.
   - Log in to your account.
   - Search and select a open source repository file that you feel requires a change / modification.
   - Click on the pencil symbol on right corner of the page.
@@ -20,10 +20,7 @@
    - Add changes to the project file
    - Add necessary comments, Click on Propose file change
    - Click on Create a Pull request to submit your changes for review.
-   - Leave necessary comments for project maintainers
-
-
-
+   - Leave necessary comments for project maintainers.
 
 
 2. Pull Request from a forked repository
