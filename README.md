@@ -6,3 +6,4 @@ All contents sourced/collected from
   2. https://yangsu.github.io/pull-request-tutorial/
   3. https://help.github.com/en/articles/
   4. Exposure 
+  5. https://www.thinkful.com/learn/github-pull-request-tutorial/#Using-Branches
